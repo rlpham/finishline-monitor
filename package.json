@@ -1,0 +1,16 @@
+{
+  "name": "finishline-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "js-base64": "^2.6.2",
+    "moment": "^2.27.0"
+  }
+}
